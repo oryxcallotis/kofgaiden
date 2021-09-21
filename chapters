@@ -1,8 +1,5 @@
 {
-   "title":"King of Fighters: Gaiden.",
-   "description":"<manga description>",
-   "artist":"<manga artist>",
-   "author":"<manga author>",
+   "title":"King of Fighters: Gaiden. Origin of the flame",
    "cover":"https://i.imgur.com/nOt0xpM.jpg",
    "chapters": 
    {
@@ -46,7 +43,7 @@
 		{
 			"groups": 
 			{
-				"rednecked_crake": "/proxy/api/imgur/chapter/xOe7RvI"
+				"Imgur": "/proxy/api/imgur/chapter/xOe7RvI"
 			},
         "title": "Chapter 5",
         "volume": "1"
