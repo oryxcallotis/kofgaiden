@@ -1,44 +1,44 @@
 {
-  "title": "King of Fighters: Gaiden.",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "https://i.imgur.com/nOt0xpM.jpg",
-  "chapters": {
-    "1": {
-      "title": "Chapter 1",
-      "volume": "1",
-      "groups": {
-        "rednecked_crake": "/proxy/api/imgur/chapter/Q33d9Wa/"
+   "title":"King of Fighters: Gaiden.",
+   "description":"<manga description>",
+   "artist":"<manga artist>",
+   "author":"<manga author>",
+   "cover":"https://i.imgur.com/nOt0xpM.jpg",
+   "chapters":{
+      "1":{
+         "title":"Chapter 1",
+         "volume":"1",
+         "groups":{
+            "rednecked_crake":"/proxy/api/imgur/chapter/Q33d9Wa/"
+         }
       },
-    },
-    "2": {
-      "title": "Chapter 2",
-      "volume": "1",
-      "groups": {
-        "rednecked_crake": "/proxy/api/imgur/chapter/IToJGCh/"
+      "2":{
+         "title":"Chapter 2",
+         "volume":"1",
+         "groups":{
+            "rednecked_crake":"/proxy/api/imgur/chapter/IToJGCh/"
+         }
       },
-    },
-    "3": {
-      "title": "Chapter 3",
-      "volume": "1",
-      "groups": {
-        "rednecked_crake": "/proxy/api/imgur/chapter/Cxz6Vif/"
+      "3":{
+         "title":"Chapter 3",
+         "volume":"1",
+         "groups":{
+            "rednecked_crake":"/proxy/api/imgur/chapter/Cxz6Vif/"
+         }
       },
-    },
-    "4": {
-      "title": "Chapter 4",
-      "volume": "1",
-      "groups": {
-        "rednecked_crake": "/proxy/api/imgur/chapter/22znSQ7/"
+      "4":{
+         "title":"Chapter 4",
+         "volume":"1",
+         "groups":{
+            "rednecked_crake":"/proxy/api/imgur/chapter/22znSQ7/"
+         }
       },
-    },
-    "5": {
-      "title": "Chapter 5",
-      "volume": "1",
-      "groups": {
-        "rednecked_crake": "/proxy/api/imgur/chapter/xOe7RvI/" 
-      },
-    }
-  }
+      "5":{
+         "title":"Chapter 5",
+         "volume":"1",
+         "groups":{
+            "rednecked_crake":"/proxy/api/imgur/chapter/xOe7RvI/"
+         }
+      }
+   }
 }
