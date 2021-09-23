@@ -14,6 +14,7 @@
 			},
         "title": "Chapter 1",
         "volume": "1"
+	"last_updated": "1626908400"
 		},
 	"2": 
 		{
@@ -23,6 +24,7 @@
 			},
         "title": "Chapter 2",
         "volume": "1"
+	"last_updated": "1627945200"
 		},
 	"3": 
 		{
@@ -32,6 +34,7 @@
 			},
         "title": "Chapter 3",
         "volume": "1"
+	"last_updated": "1629241200"
 		},
 	"4": 
 		{
@@ -41,6 +44,7 @@
 			},
         "title": "Chapter 4",
         "volume": "1"
+	"last_updated": "1630969200"
 		},
     "5": 
 		{
@@ -50,6 +54,7 @@
 			},
         "title": "Chapter 5",
         "volume": "1"
+	"last_updated": "1632092400"
 		}
 	}
 }
