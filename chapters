@@ -1,19 +1,19 @@
 {
    "title":"The King of Fighters Gaiden: Origin of the Flame",
-   "description":"Raws updated on the 1st and 3rd Monday of every month.",  
-   "artist": "Kyotaro Azuma",
-   "author": "Kyotaro Azuma / SNK",
+   "description":"Raws updated on the 1st and 3rd Monday of every month.",
+   "artist":"<manga artist>",
+   "author":"<manga author>",
    "cover":"https://i.imgur.com/nOt0xpM.jpg",
    "chapters": 
    {
-    	"1": 
+    "1": 
 		{
 			"groups": 
 			{
 				"rednecked_crake": "/proxy/api/imgur/chapter/Q33d9Wa"
-        		},
-			"title": "Chapter 1",
-        		"volume": "1"
+			},
+        "title": "Chapter 1",
+        "volume": "1"
 		},
 	"2": 
 		{
@@ -21,8 +21,8 @@
 			{
 				"rednecked_crake": "/proxy/api/imgur/chapter/IToJGCh"
 			},
-        		"title": "Chapter 2",
-        		"volume": "1"
+        "title": "Chapter 2",
+        "volume": "1"
 		},
 	"3": 
 		{
@@ -30,8 +30,8 @@
 			{
 				"rednecked_crake": "/proxy/api/imgur/chapter/Cxz6Vif"
 			},
-        		"title": "Chapter 3",
-        		"volume": "1"
+        "title": "Chapter 3",
+        "volume": "1"
 		},
 	"4": 
 		{
@@ -39,8 +39,8 @@
 			{
 				"rednecked_crake": "/proxy/api/imgur/chapter/22znSQ7"
 			},
-        		"title": "Chapter 4",
-        		"volume": "1"
+        "title": "Chapter 4",
+        "volume": "1"
 		},
     "5": 
 		{
@@ -48,8 +48,8 @@
 			{
 				"rednecked_crake": "/proxy/api/imgur/chapter/xOe7RvI"
 			},
-        		"title": "Chapter 5",
-        		"volume": "1"
+        "title": "Chapter 5",
+        "volume": "1"
 		}
 	}
 }
