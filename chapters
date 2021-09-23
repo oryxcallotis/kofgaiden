@@ -13,7 +13,7 @@
 				"rednecked_crake": "/proxy/api/imgur/chapter/Q33d9Wa"
 			},
         "title": "Chapter 1",
-        "volume": "1"
+        "volume": "1",
 	"last_updated": "1626908400"
 		},
 	"2": 
@@ -23,7 +23,7 @@
 				"rednecked_crake": "/proxy/api/imgur/chapter/IToJGCh"
 			},
         "title": "Chapter 2",
-        "volume": "1"
+        "volume": "1",
 	"last_updated": "1627945200"
 		},
 	"3": 
@@ -33,7 +33,7 @@
 				"rednecked_crake": "/proxy/api/imgur/chapter/Cxz6Vif"
 			},
         "title": "Chapter 3",
-        "volume": "1"
+        "volume": "1",
 	"last_updated": "1629241200"
 		},
 	"4": 
@@ -43,7 +43,7 @@
 				"rednecked_crake": "/proxy/api/imgur/chapter/22znSQ7"
 			},
         "title": "Chapter 4",
-        "volume": "1"
+        "volume": "1",
 	"last_updated": "1630969200"
 		},
     "5": 
@@ -53,7 +53,7 @@
 				"rednecked_crake": "/proxy/api/imgur/chapter/xOe7RvI"
 			},
         "title": "Chapter 5",
-        "volume": "1"
+        "volume": "1",
 	"last_updated": "1632092400"
 		}
 	}
