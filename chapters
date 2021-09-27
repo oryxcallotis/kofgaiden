@@ -6,53 +6,53 @@
    "cover":"https://i.imgur.com/nOt0xpM.jpg",
    "chapters": 
    {
-    "1": 
+    	"1": 
 		{
 			"groups": 
 			{
 				"rednecked_crake": "/proxy/api/imgur/chapter/Q33d9Wa"
 			},
-        "title": "Chapter 1",
+        "title": "Shingo, going beyond time & space!",
         "volume": "1",
 	"last_updated": "1626908400"
 		},
-	"2": 
+	"2.1": 
 		{
 			"groups": 
 			{
 				"rednecked_crake": "/proxy/api/imgur/chapter/IToJGCh"
 			},
-        "title": "Chapter 2.1",
+        "title": "Time to visit the Yasakani house!",
         "volume": "1",
 	"last_updated": "1627945200"
 		},
-	"3": 
+	"2.2": 
 		{
 			"groups": 
 			{
 				"rednecked_crake": "/proxy/api/imgur/chapter/Cxz6Vif"
 			},
-        "title": "Chapter 2.2",
+        "title": "Time to visit the Yasakani house!",
         "volume": "1",
 	"last_updated": "1629241200"
 		},
-	"4": 
+	"3.1": 
 		{
 			"groups": 
 			{
 				"rednecked_crake": "/proxy/api/imgur/chapter/22znSQ7"
 			},
-        "title": "Chapter 3.1",
+        "title": "Time to visit Kusanagi-san!",
         "volume": "1",
 	"last_updated": "1630969200"
 		},
-    "5": 
+    	"3.2": 
 		{
 			"groups": 
 			{
 				"rednecked_crake": "/proxy/api/imgur/chapter/xOe7RvI"
 			},
-        "title": "Chapter 3.2",
+        "title": "Time to visit Kusanagi-san!",
         "volume": "1",
 	"last_updated": "1632092400"
 		}
